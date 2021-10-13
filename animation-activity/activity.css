@@ -54,7 +54,7 @@ nav {
   from {
       transform: rotateZ(0deg);
       transform-origin: bottom top;
-      margin-top: 10%;
+      margin-bottom: 10%;
   }
 
   to {
